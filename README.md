@@ -1,2 +1,2 @@
-# Food delivery app
- Using Brian holt's course to build a react application for food delivery
+# Food-delivery-app
+ Using Biran Holt's course of front end Masters to build a food delivery app
